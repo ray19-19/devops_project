@@ -4,6 +4,14 @@
 
 This project is all about setting up a DevOps pipeline using Docker, GitHub Actions for CI/CD, and Terraform for Infrastructure as Code. It's designed to be simple enough for anyone to follow, even if you're new to DevOps!
 
+
+## Group Members
+
+- **Member 1**: Rayen Hmidi
+- **Member 2**: Ahmed AbdelAziz Meddeb
+- **Member 3**: Adem Nouira
+
+
 ## Technologies Used
 
 - **Docker**: This tool helps you package your application into containers. Think of it like putting your app in a box that can run anywhere.
